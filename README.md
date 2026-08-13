@@ -207,7 +207,7 @@ Q-Learning
 ε-greedy exploration
 🚀 Installation
 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/AI_Maze_Agent.git
+git clone (https://github.com/Smit-Barad/AI_Maze_Agent.git)
 
 Move into the project:
 
