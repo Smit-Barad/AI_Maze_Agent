@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python environments
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Logs
+*.log
+
+# Generated videos
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Generated images
+*.png
+*.jpg
+*.jpeg
+
+# Local experiment files
+*.pkl
+*.pickle
